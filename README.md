@@ -1,6 +1,4 @@
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img width="1281" alt="Screenshot 2023-07-31 at 5 45 24 PM" src="https://github.com/ahmed-eldin/word-association/assets/111728755/629ef052-953c-491a-955c-65d0a1f83f0a">
 
 # JavaScript Word Association Game
 
