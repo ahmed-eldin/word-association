@@ -31,4 +31,4 @@ This project was built using JavaScript, HTML, and CSS to create a captivating w
 
 ##  
 
-Get ready to hit the virtual casino tables with the JavaScript Blackjack Game. Explore the code, add your twist, and enjoy hours of blackjack entertainment. 🃏💰🎲
+Put your word association skills to the test with this Simple JavaScript Word Association Game. 🗣️🔤🎮
